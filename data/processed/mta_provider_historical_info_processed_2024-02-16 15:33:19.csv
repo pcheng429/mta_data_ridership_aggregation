@@ -1,0 +1,250 @@
+station_complex,historical,provider_available
+77 St (R),False,False
+"3 Av-149 St (2,5)",False,True
+East 149 St (6),False,True
+"125 St (2,3)",False,True
+"Franklin Av (C,S)",False,False
+"174-175 Sts (B,D)",False,True
+181 St (A),True,True
+South Ferry (1),False,False
+"Northern Blvd (M,R)",False,True
+"8 St-New York University (N,R)",False,True
+"155 St (B,D)",False,True
+96 St (Q),False,False
+23 St-Ely Av (E)/Long Island City-Court Sq (G),False,True
+City Hall (R),False,True
+"Chambers St (J,M,Z)/Bklyn Bridge-City Hall (4,5,6)",True,True
+"Chambers St-WTC (A,C,E)/Park Pl (2,3)",False,True
+"86 St (4,5,6)",True,True
+"Atlantic Av (B,Q,2,3,4,5)/Pacific St (D,M,N,R)",True,False
+190 St (A),True,True
+7 Av (F),False,False
+Metropolitan Av (G)/Lorimer St (L),False,True
+Lexington Av-53 St (E)/51 St (6),False,True
+"Broadway-Lafayette St (B,D,F)/Bleecker St (6)",True,True
+Ralph Av (C),False,False
+"125 St (4,5,6)",False,True
+Cathedral Pkwy-110 St (1),True,True
+"125 St (A,B,C,D)",False,True
+"Utica Av (A,C)",False,False
+Bedford-Nostrand Avs (G),False,False
+5 Av-53 St (E),False,True
+Houston St (1),False,True
+"Myrtle-Wyckoff Avs (L,M)",False,False
+"Prospect Av (M,R)",False,False
+155 St (C),False,True
+Cortland St,False,False
+"Queens Plaza (E,M,R)",False,True
+Longwood Av (6),False,True
+175 St (A),False,True
+"Times Sq-42 St (N,Q,R,S,W,1,2,3,7)/42 St (A,C,E)",True,True
+"Wall St (4,5)",True,True
+Fort Hamilton Pkwy (F),False,False
+Botanic Garden (S),False,False
+"5 Av-59 St (N,R,W)",False,True
+"President St (2,5)",False,False
+Flushing-Main St (7),True,True
+Rector St (R),False,True
+Broadway (G),False,False
+Van Siclen Av (C),False,False
+"Nevins St (2,3,4,5)",False,False
+23 St (6),False,True
+"Kingsbridge Rd (B,D)",False,True
+"Winthrop St (2,5)",False,False
+"Canal St (A,C,E)",False,True
+72 St (Q),False,False
+"168 St-Washington Heights (A,C,1)",True,False
+"Woodhaven Blvd (M,R)",False,True
+Kingston Av (3),False,False
+"Wall St (2,3)",False,True
+"7 Av (B,Q)",False,False
+"Canal St (J,M,N,Q,R,Z,6)",False,True
+Grant Av (A),False,False
+Inwood-207 St (A),False,True
+"34 St-Penn Station (A,C,E)",False,False
+"Fordham Rd (B,D)",False,True
+"Cortlandt St (R,W)",False,True
+"8 Av & 14 St (A,C,E,L)",False,True
+East Broadway (F),False,True
+116 St-Columbia University (1),True,True
+World Trade Center,False,True
+Rockaway Av (C),False,False
+"Union St (M,R)",False,False
+"Grand Av-Newtown (M,R)",False,True
+"Bowling Green (4,5)",True,False
+"138 St-Grand Concourse (4,5)",False,True
+34 St - Hudson Yards (7),False,False
+"Jamaica Center-Parsons-Archer (E,J,Z)",False,True
+3 Av-138 St (6),False,True
+"81 St-Museum of Natural History (B,C)",False,True
+Bay Ridge Av (R),False,False
+"Jay St-Borough Hall (A,C,F)",False,False
+77 St (6),False,True
+"65 St (M,R)",False,True
+"Carroll St (F,G)",False,False
+Graham Av (L),False,True
+Roosevelt Island (F),False,False
+East 143 St-St Mary's St (6),False,True
+66 St-Lincoln Center (1),False,True
+Montrose Av (L),False,False
+"Euclid Av (A,C)",False,False
+Whitehall St (R),False,False
+"Grand St (B,D)",False,True
+"23 St (N,R,W)",False,True
+96 St (6),False,True
+181 St (1),True,False
+57 St (F),False,True
+"Church Av (2,5)",False,False
+Dyckman St (A),False,True
+Nostrand Av (3),False,False
+Parsons Blvd (F),False,True
+Nassau Av (G),False,True
+"Eastern Pkwy-Brooklyn Museum (2,3)",False,False
+"6 Av & 14 St (1,2,3,F,M,L)",False,True
+28 St (1),True,True
+"Court St (M,R)/Borough Hall (2,3,4,5)",True,False
+"Steinway St (M,R)",False,True
+"59 St-Columbus Circle (A,B,C,D,1)",True,True
+"4 Av (F)/9 St (M,R)",False,False
+"34 St-Herald Square (B,D,F,M,N,Q,R)",False,True
+79 St (1),True,True
+"Midtown-57 St-7 Av (N,Q,R,W)",False,True
+"Beverly Rd (2,5)",False,False
+"72 St (1,2,3)",True,True
+"25 St (M,R)",False,False
+Myrtle-Willoughby Avs (G),False,False
+Bay Ridge-95 St (R),False,False
+28 St (6),True,True
+"Sutphin Blvd-Archer Av-JFK Airport (E,J,Z)",False,True
+Clinton-Washington Avs (C),False,False
+"182-183 Sts (B,D)",False,True
+110 St (6),False,True
+"Nostrand Av (A,C)",False,False
+"14 St-Union Square (L,N,Q,R,4,5,6)",True,False
+116 St (6),False,True
+"Chambers St (1,2,3)",True,True
+"63 Dr-Rego Park (M,R)",False,True
+"Grand Army Plaza (2,3)",False,False
+Hunts Point Av (6),False,True
+"Lexington Av (N,R,W)/59 St (4,5,6)",False,True
+"23 St (F,M)",False,True
+"Bergen St (F,G)",False,False
+103 St (1),False,True
+Brook Av (6),False,True
+191 St (1),False,True
+"Hoyt St (2,3)",False,False
+Bedford Av (L),False,True
+"28 St (N,R,W)",False,True
+"Lawrence St (M,R)",False,False
+"Bowery (J,M,Z)",False,True
+"Grand Central-42 St (S,4,5,6,7)",False,True
+Jefferson St (L),False,False
+"86 St (B,C)",False,True
+Lafayette Av (C),False,False
+Jamaica-Van Wyck (E),False,True
+"Fulton St (J,M,Z,2,3,4,5)/Bway-Nassau St (A,C)",True,True
+169 St (F),False,True
+"Bergen St (2,3)",False,False
+3 Av (L),False,True
+"167 St (B,D)",False,True
+"Broad St (J,Z)",False,True
+"46 St (M,R)",False,True
+"Clark St (2,3)",False,False
+68 St-Hunter College (6),False,True
+"161 St-Yankee Stadium (B,D,4)",False,True
+53 St (R),False,False
+"116 St (2,3)",False,True
+"Crown Heights-Utica Av (3,4)",False,False
+"Hoyt-Schermerhorn Sts (A,C,G)",False,False
+1 Av (L),False,True
+DeKalb Av (L),False,False
+Hunters Point Av (7),False,True
+Christopher St-Sheridan Sq (1),False,True
+157 St (1),False,True
+Morgan Av (L),False,False
+"149 St-Grand Concourse (2,4,5)",True,True
+Jamaica-179 St (F),False,True
+Cypress Av (6),False,True
+"Central Park North-110 St (2,3)",False,True
+163 St-Amsterdam Av (C),False,True
+Lexington Av-63 St (F),False,False
+"Kew Gardens-Union Turnpike (E,F)",False,True
+Franklin St (1),False,True
+"36 St (D,M,N,R)",False,False
+86 St (R),False,False
+"Delancey St (F)/Essex St (J,M,Z)",False,True
+"Bedford Park Blvd (B,D)",False,True
+Harlem-148 St (3),False,True
+Church Av (F),False,False
+45 St (R),False,False
+"Briarwood-Van Wyck Blvd (E,F)",False,True
+"36 St (M,R)",False,True
+Grand St (L),False,False
+"Forest Hills-71 Av (E,F,M,R)",False,True
+"72 St (B,C)",False,True
+Fulton St (G),False,False
+"67 Av (M,R)",False,True
+"47-50 Sts-Rockefeller Center (B,D,F,M)",False,True
+"Franklin Av (2,3,4,5)/Botanic Garden (S)",False,False
+145 St (1),False,True
+86 St (1),False,True
+"170 St (B,D)",False,True
+"Elmhurst Av (M,R)",True,True
+Vernon Blvd-Jackson Av (7),False,True
+"42 St-Bryant Pk (B,D,F)/5 Av (7)",False,True
+Kingston-Throop Avs (C),False,False
+Norwood-205 St (D),False,True
+"49 St (N,R,W)",False,True
+"116 St (B,C)",False,True
+86 St (Q),False,False
+"Spring St (C,E)",False,True
+Clinton-Washington Avs (G),False,False
+50 St (1),False,True
+21 St-Queensbridge (F),False,True
+"23 St (C,E)",False,True
+York St (F),False,False
+"96 St (B,C)",False,True
+Canal St (1),False,True
+Rector St (1),False,True
+"High St (A,C)",False,False
+15 St-Prospect Park (F),True,False
+"96 St (1,2,3)",False,True
+"Broadway Junction (A,C,J,L,Z)",False,False
+33 St (6),True,True
+Shepherd Av (C),False,False
+Sutphin Blvd (F),False,True
+"74-Bway (7)/Jackson Hts-Roosevelt Av (E,F,M,R)",False,True
+137 St-City College (1),False,True
+"Brooklyn College-Flatbush Av (2,5)",False,False
+Lower East Side-2 Av (F),False,True
+Bushwick Av-Aberdeen St (L),False,False
+Spring St (6),False,True
+Astor Place (6),True,True
+Greenpoint Av (G),False,True
+Flushing Av (G),False,False
+"DeKalb Av (B,M,Q,R)",False,False
+Liberty Av (C),False,False
+18 St (1),False,True
+"Tremont Av (B,D)",False,True
+"135 St (2,3)",False,True
+23 St (1),False,True
+"75 Av (E,F)",False,True
+"Cathedral Pkwy-110 St (B,C)",False,True
+"59 St (N,R)",False,False
+"50 St (C,E)",False,True
+"145 St (A,B,C,D)",False,True
+"West 4 St (A,B,C,D,E,F)",True,True
+145 St (3),True,True
+"42 St-Bryant Pk (B,D,F,M)/5 Av (7)",False,True
+"103 St (B,C)",False,True
+Halsey St (L),False,False
+"34 St-Penn Station (1,2,3)",False,False
+21 St (G),False,True
+"Sterling St (2,5)",False,False
+103 St (6),False,True
+Wilson Av (L),True,False
+Classon Av (G),False,False
+"Newkirk Av (2,5)",False,False
+"Prince St (N,R)",False,True
+"7 Av (B,D,E)",False,True
+"135 St (B,C)",False,True

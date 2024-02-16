@@ -1,0 +1,5 @@
+/test
+*/__pycache__
+data/raw/mta_subway_hourly_ridership_2024-02-16 15:33:16.csv
+.DS_Store
+data/.DS_Store
